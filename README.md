@@ -8,4 +8,4 @@ This telegram bot allows you to improve the quality of low-resolution images usi
 People often face the fact that the picture quality leaves much to be desired. This bot uses modern technologies (neural networks) that allow you to improve the image quality and achieve an eye-pleasing result.
 
 ## Requirements
-![alt tag](https://imgur.com/TYu0R7O)
+![alt tag](Requirements_JobsToBeDone.png)
