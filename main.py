@@ -5,7 +5,7 @@ from pathlib import Path
 from PIL import Image
 import telebot
 
-TOKEN = '5506670345:AAGKCVsSJMZY8BZyaHu0nNh1RCyipAeLudM'
+TOKEN = '0123456789:ABCDEFGHJKLMNOPQRSTUVWXYZabcdefghjklmnopqrstuvwxyz'
 
 bot = telebot.TeleBot(TOKEN, parse_mode=None)
 
